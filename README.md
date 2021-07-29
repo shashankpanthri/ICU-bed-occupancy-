@@ -1,2 +1,2 @@
 # ICU-bed-occupancy
-Prediction for free beds available for icu using various other feautes
+Prediction for free beds available for ICU using various other feautes
